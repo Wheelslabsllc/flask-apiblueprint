@@ -1,4 +1,6 @@
-[![Build Status](https://travis-ci.org/gwongz/flask-apiblueprint.svg?branch=master)](https://travis-ci.org/gwongz/flask-apiblueprint)
+**Wheels Note:** This is a 3rd party module that is dead. It has no further support. Its been manually patched to support later versions of flask.
+
+
 
 Flask-APIBlueprint
 ==================
